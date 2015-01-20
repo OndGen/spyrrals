@@ -1,0 +1,32 @@
+%\batchmode
+\documentclass{article}
+\usepackage{tikz}
+\def\picdata=['#1', '#2']#3['#4', '#5']{
+Parameter values for spiral picture:\\
+Filename = #4\\
+num = #1, kmod = #2\\
+\picbreakup[#3]\\
+Scale size = #5\\
+\par}
+\def\picbreakup[#1#2#3#4#5#6#7#8]{
+Shape = #1\\
+Spiral type = #2, Dual shape = #3\\
+All boxes = #4, complete boxes = #5\\
+(R,G,B) = (#6,#7,#8)}
+\def\polydata=['#1', '#2', '#3']#4['#5', '#6']{
+Parameter values for polygon picture:\\
+Filename = #5\\
+number of sides = #1, side length = #2, kmod = #3\\
+\polybreakup[#4]\\
+Scale size = #6\\
+\par}
+\def\polybreakup[#1#2#3#4#5#6]{
+Picture type = #1\\
+All boxes = #2, complete boxes = #3\\
+(R,G,B) = (#4,#5,#6)}
+\begin{document}
+
+\input ../Pics/data_pics.txt
+
+%\input pic-, etc
+\end{document}
