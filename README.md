@@ -1,4 +1,4 @@
-# spyrrals
+# spYRRAls
 
 ##spyrrals.py 
 An interactive and robust way to investigate Ond. It provides
