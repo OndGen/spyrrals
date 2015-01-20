@@ -1,0 +1,32 @@
+
+\picdata=['19', '8']SES10000['Square-1.tex', '1.5']
+\picdata=['19', '8']SKS01000['Square-2.tex', '1.5']
+\picdata=['1000', '8']SGS00100['Square-3.tex', '1.35']
+
+\picdata=['6400', '23']SGS00001['Sqr-1.tex', '2']
+\picdata=['6400', '16']SGS00010['Sqr-2.tex', '2']
+\picdata=['6400', '9']SGS00100['Sqr-3.tex', '2']
+
+\picdata=['21', '9']TES10000['Tri-1.tex', '2']
+\picdata=['21', '3']TKS11000['Tri-2.tex', '2']
+\picdata=['21', '5']TKS01000['Tri-3.tex', '2']
+
+\picdata=['496', '8']TGH00001['Tri-H.tex', '2']
+\picdata=['496', '8']TGS00001['Tri-S.tex', '2']
+\picdata=['496', '8']TGT00001['Tri-T.tex', '2']
+
+\picdata=['37', '7']HEH10100['Hexagon-1.tex', '2']
+\picdata=['37', '7']HKH01100['Hexagon-2.tex', '2']
+\picdata=['900', '7']HGH00100['Hexagon-3.tex', '2']
+
+\picdata=['721', '5']HGH01100['Hex-5.tex', '2']
+\picdata=['721', '6']HGH01010['Hex-6.tex', '2']
+\picdata=['721', '7']HGH01001['Hex-7.tex', '2']
+
+\polydata=['7', '4', '6']E01000['Poly-1.tex', '2']
+\polydata=['7', '5', '7']K00000['Poly-2.tex', '2']
+\polydata=['7', '15', '6']G01001['Poly-3.tex', '2']
+
+\polydata=['8', '22', '18']G01001['Poly8-18.tex', '2']
+\polydata=['5', '22', '7']G01100['Poly5-7.tex', '2']
+\polydata=['10', '12', '8']G01010['Poly10-8.tex', '2']
